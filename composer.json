@@ -1,0 +1,16 @@
+{
+    "name": "eigenaar/phppackage",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mica-P",
+            "email": "mica@fluet.dev"
+        }
+    ],
+    "require": {}
+}
